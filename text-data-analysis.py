@@ -1,3 +1,4 @@
+#This code use GPT to run text analysis. Change api key and data file name if needed.- Yujia (12/2024)
 from openai import OpenAI
 
 client = OpenAI(api_key="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")
