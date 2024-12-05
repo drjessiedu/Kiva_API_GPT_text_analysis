@@ -1,3 +1,4 @@
+#How to transform the kiva data into long form by individual donor's donation amount-Yujia (12/2024).
 import pandas as pd
 import ast
 import os
