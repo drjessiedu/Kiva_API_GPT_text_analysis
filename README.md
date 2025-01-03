@@ -1,2 +1,2 @@
 # kiva-API-GPT
-How to scrap data from kiva API and analyze them using GPT API
+Scraping data from Kiva API using Python
